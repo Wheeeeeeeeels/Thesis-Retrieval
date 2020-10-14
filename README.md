@@ -10,5 +10,5 @@
 * NetWork: SIGCOMM
 * Target: 7
 
-![](./image/1.jpg)
-![](./image/2.jpg)
+![](https://github.com/Wheeeeeeeeels/PAPER-MACHINE/blob/main/image/1.jpg)
+![](https://github.com/Wheeeeeeeeels/PAPER-MACHINE/blob/main/image/2.jpg)
