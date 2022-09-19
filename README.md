@@ -12,8 +12,7 @@
 ```
 
 
-![](https://github.com/Wheeeeeeeeels/PAPER-MACHINE/image/1.jpg)
-![](https://github.com/Wheeeeeeeeels/PAPER-MACHINE/blob/main/image/2.jpg)
+* Thesis Retrieval
 
 
 
